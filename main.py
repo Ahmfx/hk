@@ -26,7 +26,7 @@ def usernames():
     u1 = p + b + o + s + s
     u2 = b + o + s + s + c + c + c
     u3 = b + o + s + s + c + i
-    u4 = w + e + b + c + j
+    u4 = w + e + b + c + i
     s = u1,u2,u3,u4
     return choice(s)
 
